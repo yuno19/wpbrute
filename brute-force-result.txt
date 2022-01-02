@@ -1,0 +1,13 @@
+success login with username [admin] and password [admin] sites http://localhost/wordpress/
+https://lab-seo.net/adyson/#admin@pass
+
+https://lab-seo.net/adyson/#admin@pass
+
+https://paratanger.ma/#admin@pass
+
+https://paratanger.ma/#admin@pass
+
+http://howardlaw.co.za/#admin@pass
+
+http://howardlaw.co.za/#admin@pass
+
